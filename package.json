@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/layer7be/elixir-vuemaker",
   "dependencies": {
-    "gulp-vuemaker": "^1.0.0",
+    "gulp-vuemaker": "^1.0.0"
   }
 }
