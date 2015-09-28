@@ -1,0 +1,28 @@
+{
+  "name": "elixir-vuemaker",
+  "version": "0.0.1",
+  "description": "Elixir Vuemaker Extension",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/layer7be/elixir-vuemaker.git"
+  },
+  "keywords": [
+    "elixir",
+    "gulp",
+    "vue",
+    "vuejs"
+  ],
+  "author": {
+    "name": "Koen Calliauw",
+    "email": "koen@layer7.be"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/layer7be/elixir-vuemaker/issues"
+  },
+  "homepage": "https://github.com/layer7be/elixir-vuemaker",
+  "dependencies": {
+    "gulp-vuemaker": "^1.0.0",
+  }
+}
