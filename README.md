@@ -1,9 +1,9 @@
-# Elixir Vuize
+# Elixir Vuemaker
 
 ## Install
 
 ```bash
-$ npm install elixir-vuize --save-dev
+$ npm install elixir-vuemaker --save-dev
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ var elixir = require( 'laravel-elixir' );
 
 elixir( function( mix )
 {
-    mix.vuize( './components/*.+(js|css|html)' );
+    mix.vuemaker( 'resources/assets/vue/*.+(js|css|html)', 'resources/assets/vue-compiled' );
 });
 ```
 

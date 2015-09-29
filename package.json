@@ -1,6 +1,6 @@
 {
   "name": "elixir-vuemaker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Elixir Vuemaker Extension",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/layer7be/elixir-vuemaker",
   "dependencies": {
-    "gulp-vuemaker": "^1.0.0"
+    "gulp-vuemaker": "^1.0.1"
   }
 }
